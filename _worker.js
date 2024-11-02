@@ -34,7 +34,7 @@ let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='
 
 // Preferred address API interface
 let ipUrlTxt = [
-	'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.txt',
+	'https://raw.githubusercontent.com/1579364808/am-cf-tunnel/main/ipv4.txt',
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv6.txt'
 ];
 let ipUrlCsv = [
@@ -42,9 +42,16 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443#youtube.com/@AM_CLUB 订阅频道获取更多教程',
-	'icook.hk#t.me/AM_CLUBS 加入交流群解锁更多优选节点',
-	'time.is:443#github.com/amclubs GitHub仓库查看更多项目'
+	'visa.cn:443#1',
+	'icook.hk#2',
+	'time.is:443#3',
+	'104.19.43.82#4',
+	'172.64.203.15#5',
+	'172.64.108.8#6',
+	'104.19.1.245#7',
+	'104.19.117.144#8',
+	'104.19.21.49#9',
+	'speed.marisalnc.com#10'
 ];
 let noTLS = 'false';
 let sl = 5;
