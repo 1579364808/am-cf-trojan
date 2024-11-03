@@ -47,14 +47,7 @@ let ipUrlCsv = [
 let ipLocal = [
 	'visa.cn:443#1',
 	'icook.hk#2',
-	'time.is:443#3',
-	'104.19.43.82#4',
-	'172.64.203.15#5',
-	'172.64.108.8#6',
-	'104.19.1.245#7',
-	'104.19.117.144#8',
-	'104.19.21.49#9',
-	'speed.marisalnc.com#10'
+	'time.is:443#3'
 ];
 let noTLS = 'false';
 let sl = 5;
