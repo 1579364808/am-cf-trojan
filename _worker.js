@@ -14,13 +14,23 @@ let userID = 'auto';
 
 // Proxy IPs to choose from
 let proxyIPs = [
-	'cdn.xn--b6gac.eu.org',
-	'cdn-all.xn--b6gac.eu.org',
-	'workers.cloudflare.cyou',
-	'freeyx.cloudflare88.eu.org',
-	'cdn.2020111.xyz',
-	'cfip.cfcdn.vip'，
-	'speed.marisalnc.com'
+	// 'cdn.xn--b6gac.eu.org',
+	// 'cdn-all.xn--b6gac.eu.org',
+	// 'workers.cloudflare.cyou',
+	// 'freeyx.cloudflare88.eu.org',
+	// 'cdn.2020111.xyz',
+	// 'cfip.cfcdn.vip'，
+	// 'speed.marisalnc.com'
+    "8.208.115.133",
+    "8.211.197.133",
+    "8.209.77.140",
+    "47.254.42.167",
+    "8.209.250.150",
+    "8.213.134.177",
+    "8.213.135.201",
+    "8.216.88.20",
+    "47.88.15.127",
+    "149.129.250.187"
 ];
 // Randomly select a proxy IP from the list
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
