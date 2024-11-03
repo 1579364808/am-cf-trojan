@@ -14,9 +14,10 @@ let userID = 'auto';
 
 // Proxy IPs to choose from
 let proxyIPs = [
-	'cdn.xn--b6gac.eu.org',
-	'cdn-all.xn--b6gac.eu.org',
-	'workers.cloudflare.cyou',
+	// 'cdn.xn--b6gac.eu.org',
+	// 'cdn-all.xn--b6gac.eu.org',
+	// 'workers.cloudflare.cyou',
+	'155.248.184.2'
 ];
 // Randomly select a proxy IP from the list
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
