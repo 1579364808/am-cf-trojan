@@ -19,7 +19,8 @@ let proxyIPs = [
 	'workers.cloudflare.cyou',
 	'freeyx.cloudflare88.eu.org',
 	'cdn.2020111.xyz',
-	'cfip.cfcdn.vip'
+	'cfip.cfcdn.vip'，
+	'speed.marisalnc.com'
 ];
 // Randomly select a proxy IP from the list
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
