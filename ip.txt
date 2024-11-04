@@ -11,14 +11,14 @@
 162.159.130.29#Anycast
 104.18.27.94#Anycast
 104.18.11.143#Anycast
-104.19.47.64 #Anycast
-104.19.33.72 #Anycast
-104.19.37.161 #Anycast
-104.19.50.7 #Anycast
-104.19.40.32 #Anycast
-104.19.48.214 #Anycast
-104.19.59.103 #Anycast
-104.19.38.8 #Anycast
+104.19.47.64#Anycast
+104.19.33.72#Anycast
+104.19.37.161#Anycast
+104.19.50.7#Anycast
+104.19.40.32#Anycast
+104.19.48.214#Anycast
+104.19.59.103#Anycast
+104.19.38.8#Anycast
 
 
 
