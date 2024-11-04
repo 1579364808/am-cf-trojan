@@ -19,7 +19,20 @@
 104.19.48.214#Anycast
 104.19.59.103#Anycast
 104.19.38.8#Anycast
-
+104.19.55.30#Anycast
+104.19.47.140#Anycast
+104.19.49.186#Anycast
+104.19.54.227#Anycast
+104.19.45.76#Anycast
+104.19.41.194#Anycast
+104.19.59.131#Anycast
+104.19.44.74#Anycast
+104.19.53.114#Anycast
+104.19.62.43#Anycast
+104.19.46.31#Anycast
+104.19.52.161#Anycast
+104.19.42.11#Anycast
+104.19.50.192#Anycast
 
 
 
