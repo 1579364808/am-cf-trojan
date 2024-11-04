@@ -42,7 +42,7 @@ let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='
 // Preferred address API interface
 let ipUrlTxt = [
 	'https://raw.githubusercontent.com/1579364808/am-cf-trojan/main/ip.txt',
-	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv6.txt'
+	'https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/proxy.txt'
 ];
 let ipUrlCsv = [
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv'
