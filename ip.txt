@@ -7,19 +7,12 @@
 160.153.0.96#Anycast
 160.153.0.233#Anycast
 160.153.0.6#Anycast
-162.159.136.247#Anycast
 162.159.130.192#Anycast
 162.159.130.29#Anycast
 104.18.27.94#Anycast
 104.18.11.143#Anycast
-104.18.14.19#Anycast
-104.18.0.117#Anycast
-104.18.22.235#Anycast
-104.18.21.69#Anycast
-104.18.4.237#Anycast
 104.18.13.229#Anycast
-172.67.70.188#Anycast
-23.227.38.33#CA
+
 
 
 
