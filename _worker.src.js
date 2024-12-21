@@ -14,8 +14,7 @@ let userID = 'auto';
 
 // Proxy IPs to choose from
 let proxyIPs = [
-	'proxyip.amclubs.camdvr.org',
-	'proxyip.amclubs.kozow.com'
+	'138.2.61.180',
 ];
 // Randomly select a proxy IP from the list
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
@@ -44,9 +43,7 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443#youtube.com/@AM_CLUB 订阅频道获取更多教程',
-	'icook.hk#t.me/AM_CLUBS 加入交流群解锁更多优选节点',
-	'time.is:443#github.com/amclubs GitHub仓库查看更多项目'
+
 ];
 let noTLS = 'false';
 let sl = 5;
