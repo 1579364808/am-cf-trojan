@@ -19,7 +19,7 @@ let proxyIPs = [
 // Randomly select a proxy IP from the list
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 let proxyPort = 443;
-let proxyIpTxt = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vcHJveHlpcC50eHQ=');
+let proxyIpTxt = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzE1NzkzNjQ4MDgvaW1nL21haW4vcHJveHlpcC50eHQ=');
 
 // Setting the socks5 will ignore proxyIP
 // Example:  user:pass@host:port  or  host:port
@@ -36,7 +36,7 @@ let ipUrl = [
 
 ];
 let ipUrlTxt = [
-	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC50eHQ=')
+	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzE1NzkzNjQ4MDgvaW1nL21haW4vaXAudHh0')
 ];
 let ipUrlCsv = [
 	// atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC5jc3Y=')
